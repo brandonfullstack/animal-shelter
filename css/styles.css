@@ -1,5 +1,17 @@
 body {
   color: blueviolet;
+  background-color: blueviolet;
+}
+
+h1 {
+  color: white;
+}
+
+div {
+  border: 3px;
+  border-style: solid;
+  margin: 3px;
+  background-color: white;
 }
 
 .column {
